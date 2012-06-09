@@ -1,0 +1,24 @@
+Thoughtcast is a personal notetaking utility written as a major mode into emacs.
+
+
+To Use:
+
+load thoughtcast.el into emacs. The main function is interactive so you can call it with M-x thought.
+
+You will be prompted for a course of action, select 1 and follow the prompts. If you do not have a directory structures set up to hold files thoughtcast will create one in ~/thoughtcast/
+
+within this directory there are some sub directories
+
+/meals/
+/thoughts/
+/sleep/
+
+each contains data that you have recorded. 
+
+
+Things to add:
+
+
+http post methods so you can configure thoughtcast to blog for you
+
+find my old TODO list.
